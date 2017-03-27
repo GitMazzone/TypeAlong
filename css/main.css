@@ -1,0 +1,17 @@
+#changing-text {
+	text-align: center;
+}
+
+.typeAlongSpan {
+	font-size: 40px;
+	margin-left: 0;
+}
+
+#active-char {
+	background-color: rgba(25,25,255,.5);
+	color: white;
+}
+
+#next-chars {
+	color: grey;
+}
