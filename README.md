@@ -11,7 +11,7 @@ To use in your own site, do the following:
   
 Here's a demo: [JSFiddle link](https://jsfiddle.net/soqqevpr/)
 ###### NOTE: I'll be adding support for multiple instances in one page, and abstracting the functionality to not require those 3 specific divs.  
-#
+
 ## Functions:  
 ##### setText(text)  
 Given a string, setText sets the active-char span to the first letter, and puts the rest of the string in next-chars.  
