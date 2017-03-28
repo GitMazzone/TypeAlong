@@ -15,3 +15,6 @@ Here's a demo: [JSFiddle link](https://jsfiddle.net/soqqevpr/)
 ## Functions:  
 ##### setText(text)  
 Given a string, setText sets the active-char span to the first letter, and puts the rest of the string in next-chars.  
+
+## Dependencies:  
+This was built using jQuery v. 3.1.1, found [here](https://code.jquery.com/jquery-3.1.1.min.js)
